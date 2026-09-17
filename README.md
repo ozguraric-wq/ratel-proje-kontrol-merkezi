@@ -1,9 +1,9 @@
 # Ratel Dijital · Proje Kontrol Merkezi
 
-GitHub Pages sunum yayını. Web Siteleri ve Uygulamalar ile Proje ve Eğitim Dosyaları ayrı bölümlerde sunulur. Bölümler web sitesi bağlantısına göre otomatik belirlenir.
+Herkese açık GitHub Pages sunum yayını. Projeler ilk HTML içinde hazır gelir; açılış için başka bir sunucunun yanıtı beklenmez. Proje dosyaları mevcut paylaşım adreslerinden açılır.
 
-Bu klasörün içeriği GitHub deposunun köküne yüklenir. GitHub Settings → Pages → Deploy from a branch → main / (root) seçilir.
+İlk görünüm yalnızca yayın sırasında görünür olan kayıtları içerir. Yönetim sunucusundan güncel liste açılışta ve sayfa açıkken arka planda alınır. Sunucuya erişilemezse son yayımlanan liste gösterilmeye devam eder. Yönetim sunucusu ulaşılamaz durumdayken yapılan değişikliklerin bu kopyaya yansıması için güncel herkese açık kayıtlarla yeniden yayın gerekir.
 
-Güncel kayıtlar https://ratel-proje-kontrol-merkezi.ozgurarc.chatgpt.site/api/projects adresinden okunur. Yönetici paneli ve dosyalar mevcut sunucuda kalır; eğitim/proje düzenlemeleri GitHub sayfasına da yansır. Kayıt veya dosya anlık kopyası bu depoya eklenmez.
+Yönetici paneli: https://ratel-proje-kontrol-merkezi.ozgurarc.chatgpt.site/yonetim
 
 Dosyalara doğrudan erişim: ?bolum=dosyalar
